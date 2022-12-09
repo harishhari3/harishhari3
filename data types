@@ -1,0 +1,15 @@
+name = "freeCodeCamp"
+
+score = 99.99
+
+lessons =  ["RWD", "JavaScript", "Databases", "Python"]
+
+person = {
+    "firstName": "John",
+    "lastName": "Doe",
+    "age": 28
+}
+
+langs = ("Python", "JavaScript", "Golang")
+
+basics = {"HTML", "CSS", "JavaScript"}
